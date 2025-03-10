@@ -72,6 +72,11 @@ def convert_temperature(temperature, unit):
         return (temperature - 32) * 5/9
 
 
+#solved this
+
+=======
+
 #solllveedd
+
 print('Exercise 4: Convert 0°C to Fahrenheit:', convert_temperature(0, 'C'))
 print('Exercise 4: Convert 32°F to Celsius:', convert_temperature(32, 'F'))
